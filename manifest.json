@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "Brexit means Breadsticks",
+  "name": "Würfel-Armin Erweiterung",
   "version": "0.1.4",
-  "description": "Turns every mention of Brexit on any website into 'breadsticks'",
-  "icons": { "16": "images/breadsticks16.png",
-           "48": "images/breadsticks48.png",
-          "128": "images/breadsticks128.png" },
+  "description": "Turns every mention of Armin Laschet into Würfel-Armin",
+  "icons": { "16": "images/dice16.png",
+           "48": "images/dice48.png",
+          "128": "images/dice128.png" },
   "content_scripts": [
     {
     "matches": ["*://*/*"],

@@ -62,10 +62,6 @@ var incomingList = [{
   t: ["Die Annalena", "Annalena Bärbaum"]
 }]
 
-
-function chooseRandom(){
-
-}
 // This makes an array of everything inside the body tag
 
 //a function that loops through every single item
