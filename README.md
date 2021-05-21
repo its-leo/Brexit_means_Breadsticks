@@ -3,9 +3,9 @@
 
 ![Annegret](https://github.com/its-leo/Wuerfel_Armin/blob/master/showcase1.png)
 
-![Julia](https://github.com/its-leo/Wuerfel_Armin/blob/master/showcase2.png )
+![Julia](https://github.com/its-leo/Wuerfel_Armin/blob/master/showcase2.PNG)
 
-![Armin](https://github.com/its-leo/Wuerfel_Armin/blob/master/showcase3.png)
+![Armin](https://github.com/its-leo/Wuerfel_Armin/blob/master/showcase3.PNG)
 
 I changed the forked code so that the original words (f) and the replacements (t) are now defined in an Array of tuples.
 
