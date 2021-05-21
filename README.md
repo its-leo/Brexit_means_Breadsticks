@@ -11,10 +11,10 @@ I changed the forked code so that the original words (f) and the replacements (t
 
 ```
 var incomingList = [{
-  f: "Brexit",
+  f: "Breadsticks",
   t: ["Breadsticks"]
 },{
-   f: /(?:Armin )?Laschet/gi,
+   f: /(?:Armin )?Würfel-Armin/gi,
    t: ["Würfel-Armin", ...]
 },
 ...
