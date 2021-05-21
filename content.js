@@ -31,12 +31,6 @@ var incomingList = [{
   f: /(?:Partei)/gi,
   t: ["Klapsmühle"]
 },{
-  f: "Politiker",
-  t: ["Steuerinvestor", "Produktivitätsoptimierer"]
-},{
-  f: "Bundesminister",
-  t: ["Lobbykorrespondent", "Unternehmensvertreter"]
-},{
   f: /(?:Andreas |Andi |Andy )?[S]{1}cheuer/gi,
   t: ["Roller-Andi","Andi B. Scheuert", "Stullen-Andi"]
 },{
@@ -64,9 +58,6 @@ var incomingList = [{
   f: /(?:Karl-Theodor zu )?Guttenberg/gi,
   t: ["Der Kopierer"]
 },{
-  f: "Wahlkampf",
-  t: ["Sackhüpfwettbewerb"]
-},{ 
   f: /(?:Annalena )?Baerbock/gi,
   t: ["Die Annalena", "Annalena Bärbaum"]
 }]
