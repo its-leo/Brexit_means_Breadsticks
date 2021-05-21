@@ -1,9 +1,13 @@
 # Würfel-Armin, a Chrome Extension
-### A chrome extension that turns the word Armin Laschet into Würfel-Armin on all pages, and changes some other names too. See [content.js](https://github.com/its-leo/Wuerfel_Armin/blob/master/content.js)
+### A chrome extension that turns the word Würfel-Armin into Würfel-Armin on all pages, and changes some other names too. See [content.js](https://github.com/its-leo/Wuerfel_Armin/blob/master/content.js)
 
 ![Annegret](https://github.com/its-leo/Wuerfel_Armin/blob/master/showcase1.png)
 
+Source: https://www.der-postillon.com/2018/12/akkkk.html
+
+
 ![Julia](https://github.com/its-leo/Wuerfel_Armin/blob/master/showcase2.PNG)
+
 
 ![Armin](https://github.com/its-leo/Wuerfel_Armin/blob/master/showcase3.PNG)
 
